@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.paragraph {
+    background-color: rgb(247, 186, 196);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#element2 {
+    color: rgb(1, 1, 230);
+    font-size: 36px;
+}
+
+.paragraph.element3 {
+    font-size: 24px;
+}
+
+#element4 {
+    background-color: rgb(106, 234, 106);
+    font-size: 24px;
+    font-weight: bold;
+}
